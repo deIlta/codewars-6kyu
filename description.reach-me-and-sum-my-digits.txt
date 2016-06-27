@@ -1,4 +1,4 @@
-https://www.codewars.com/kata/reach-me-and-sum-my-digits
+https://www.codewars.com/kata/reach-me-and-sum-my-digits. DONE
 Description: (Reach Me and Sum my Digits)
 
 We have the first value of a certain sequence, we will name it initVal. We define pattern list, patternL, an array that has the differences between contiguous terms of the sequence. E.g: patternL = [k1, k2, k3, k4]
